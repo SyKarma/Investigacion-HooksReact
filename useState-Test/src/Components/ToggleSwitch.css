@@ -1,0 +1,17 @@
+.toggle-switch {
+    padding: 0.8rem 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 24px;
+    margin-top: 1rem;
+  }
+  
+  .toggle-switch.on {
+    background: #4CAF50;
+    color: white;
+  }
+  
+  .toggle-switch.off {
+    background: #8b36f4;
+    color: rgb(255, 255, 255);
+  }
